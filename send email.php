@@ -5,8 +5,6 @@
 		<title>
 			possible iindex file 4
 		</title>
-		<link rel="stylesheet" type="text/css" href="../css/links3.css" />
-		<link rel="stylesheet" type="text/css" href="../css/home.css" />
 		<style type="text/css">
 			#email_form{
 				grid-column: 1/4;
@@ -96,19 +94,8 @@
 
 			
 		</div>
-		<footer id="footer" style=" opacity: .5; color: black; font-size: 30px;">Copyright none BLA BLA BLA Inc. No Rights Reserved.</br>
-			<span id="PP">Privacy Policy</span></br>
-			</br>
-			I.E.T Campus, Aliganj</br>
-			Lucknow Uttar Pradesh</br>
-			Tel: 705-261-3187 | E-MAIL: keshav786tiwari@gmail.com</br>
-			</br>
-			<span style="font-size: 20px">This website is made by KESHAV TIWARI completed on 26-01-2018.</br> For any query contact details are given above.<br></span>
-		</footer>
 		
-		<script type="text/javascript" src="../js/jquery.js"></script>
-		<script type="text/javascript" src="../js/home.js"></script>
-		<script type="text/javascript" src="../js/likes2.js"></script>
+		<script type="text/javascript" src="jquery.js"></script>
 	</body>
 </html>
 <?php ?>
